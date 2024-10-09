@@ -12,7 +12,6 @@
 //         { model: "PhoneF", brand: "HTC", price: 48000 },
 //     ];
 
-
 // solotion start here//
 const phones = [
     { model: "PhoneA", brand: "Iphone", price: 95000 },
